@@ -207,7 +207,7 @@ section {
 }
 .short-link-container {
   width: 100%;
-  margin: 0 auto 4rem auto;
+  margin: 0 auto 0auto;
 }
 .short-link-container .link {
   display: flex;
@@ -259,7 +259,7 @@ section {
 
 section .main {
   width: 80%;
-  margin: 0 auto;
+  margin: 5rem auto 0 auto;
 }
 .stats {
   text-align: center;
@@ -278,7 +278,7 @@ section .main {
 
 .linked-cards {
   display: flex;
-  margin: 3.5rem 0;
+  margin: 5rem 0 3.5rem 0;
   align-items: center;
   justify-content: space-between;
   position: relative;
